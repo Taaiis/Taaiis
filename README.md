@@ -8,7 +8,7 @@
 
 Atualmente focada em:
 
-* 🐍 Desenvolvimento com Python
+* 🐍 Desenvolvimento com C
 * 💾 Banco de Dados
 * 🔐 Fundamentos de Cibersegurança e Automação
 
